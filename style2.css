@@ -44,6 +44,12 @@ article {
   box-shadow: 10px 11px 88px 17px rgba(0,0,0,0.75);
 }
 ul li a:hover {
-  background-color: green;
+  background-color: #ddd;
+  color: black;
   cursor: default;
+}
+a {
+  color: white;
+  text-decoration: none;
+  
 }
